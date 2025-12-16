@@ -41,7 +41,7 @@ export function Questions() {
                   : 'max-h-0 opacity-0'
                 }
                 `}>
-              <p>
+              <p className="font-[WorkSans] w-[80%] px-2 text-(--card-p-color)">
                 {question}
               </p>
             </div>
