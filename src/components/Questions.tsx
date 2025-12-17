@@ -37,7 +37,7 @@ export function Questions() {
             <div className=
               {`overflow-hidden transition-all duration-300 ease-in-out
                   ${isActive
-                  ? 'max-h-40 opacity-100 mt-3'
+                  ? 'max-h-45 opacity-100 mt-3'
                   : 'max-h-0 opacity-0'
                 }
                 `}>
